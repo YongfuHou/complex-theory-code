@@ -1,3 +1,4 @@
+//没用
 function [B] = con_max(A)
 n=length(A);
 for i=1:n
